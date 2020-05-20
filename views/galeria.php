@@ -1,0 +1,1 @@
+<h2>Quantidade de fotos disponíveis: <?php echo $qt ?></h2>
